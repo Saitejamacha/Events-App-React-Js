@@ -1,0 +1,52 @@
+.img-size {
+  width: 20vw;
+  height: 20vh;
+  margin-bottom: 15px;
+  border-radius: 10px;
+}
+/* :hover .img-size {
+  border: 1px solid aqua;
+} */
+
+.highlightBorder {
+  border: 3px solid aqua;
+}
+li {
+  width: 25vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  /* background-color: yellow; */
+}
+.list-items {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 30vw;
+  /* background-color: yellowgreen; */
+}
+
+h1 {
+  color: white;
+  font-size: 26px;
+  /* background-color: red; */
+  width: 20vw;
+}
+
+p {
+  color: white;
+  font-size: 20px;
+  /* background-color: red; */
+  width: 20vw;
+  margin-top: -15px;
+}
+
+.eventBtn {
+  cursor: pointer;
+  outline: none;
+  background-color: transparent;
+  border: 0px;
+}

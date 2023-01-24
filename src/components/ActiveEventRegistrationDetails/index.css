@@ -1,0 +1,45 @@
+.initial-head {
+  color: black;
+  width: 25vw;
+  font-size: 30px;
+  font-family: roboto;
+  align-self: flex-start;
+  text-align: center;
+}
+.con {
+  width: 40vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.open-img {
+  width: 60%;
+  height: 70%;
+}
+
+.para {
+  width: 30vw;
+  color: black;
+  margin-top: 20px;
+}
+
+.open-Btn {
+  background-color: #0967d2;
+  width: 15vw;
+  border: 0px;
+  height: 50px;
+  border-radius: 10px;
+  color: white;
+  font-size: 18px;
+}
+.closed-head {
+  color: black;
+  font-size: 30px;
+  width: 30vw;
+  font-family: roboto;
+}
+.done-img {
+  width: 10vw;
+  height: 20vh;
+}
